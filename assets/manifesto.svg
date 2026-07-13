@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="300" viewBox="0 0 880 300" fill="none" role="img" aria-label="manifesto">
+  <defs>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M26 0 L0 0 L0 26" fill="none" stroke="#ffffff" stroke-opacity="0.02" stroke-width="1"/>
+    </pattern>
+    <clipPath id="term">
+      <rect x="1" y="1" width="878" height="298" rx="18"/>
+    </clipPath>
+  </defs>
+
+  <!-- panel -->
+  <rect x="1" y="1" width="878" height="298" rx="18" fill="#0a0a0a" stroke="#1e1e1e" stroke-width="1.5"/>
+  <g clip-path="url(#term)">
+    <rect x="1" y="1" width="878" height="298" fill="url(#grid)"/>
+  </g>
+
+  <!-- title bar -->
+  <line x1="1" y1="52" x2="879" y2="52" stroke="#1a1a1a" stroke-width="1.5"/>
+  <circle cx="32" cy="27" r="5.5" fill="#2c2c2c"/>
+  <circle cx="52" cy="27" r="5.5" fill="#3a3a3a"/>
+  <circle cx="72" cy="27" r="5.5" fill="#484848"/>
+  <text x="440" y="31" text-anchor="middle" font-family="ui-monospace,'Cascadia Code','Courier New',monospace" font-size="12" letter-spacing="2" fill="#565656">igor@dev — ~/manifesto.sh</text>
+
+  <!-- line 1 -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.15s" dur="0.35s" fill="freeze"/>
+    <text x="40" y="100" font-family="ui-monospace,'Cascadia Code','Courier New',monospace" font-size="16" fill="#dcdcdc">$ <tspan fill="#8a8a8a">whoami</tspan></text>
+    <text x="60" y="128" font-family="ui-monospace,'Cascadia Code','Courier New',monospace" font-size="16" fill="#ededed"><tspan fill="#444444">→ </tspan>igor · full-stack developer</text>
+  </g>
+
+  <!-- line 2 -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.75s" dur="0.35s" fill="freeze"/>
+    <text x="40" y="172" font-family="ui-monospace,'Cascadia Code','Courier New',monospace" font-size="16" fill="#dcdcdc">$ <tspan fill="#8a8a8a">cat stack.txt</tspan></text>
+    <text x="60" y="200" font-family="ui-monospace,'Cascadia Code','Courier New',monospace" font-size="16" fill="#ededed"><tspan fill="#444444">→ </tspan>typescript · react · next.js · node</text>
+  </g>
+
+  <!-- line 3 -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.35s" dur="0.35s" fill="freeze"/>
+    <text x="40" y="244" font-family="ui-monospace,'Cascadia Code','Courier New',monospace" font-size="16" fill="#dcdcdc">$ <tspan fill="#8a8a8a">echo $MISSION</tspan></text>
+    <text x="60" y="272" font-family="ui-monospace,'Cascadia Code','Courier New',monospace" font-size="16" fill="#ededed"><tspan fill="#444444">→ </tspan>build fast · ship clean · stay futuristic</text>
+  </g>
+
+  <!-- prompt cursor -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.95s" dur="0.35s" fill="freeze"/>
+    <text x="40" y="290" font-family="ui-monospace,'Cascadia Code','Courier New',monospace" font-size="16" fill="#dcdcdc">$</text>
+    <rect x="58" y="278" width="9" height="16" fill="#e8e8e8">
+      <animate attributeName="opacity" values="1;1;0;0" dur="1.06s" begin="2.3s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
