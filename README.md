@@ -3,7 +3,7 @@
 <!--             full-stack developer · #ff462e                        -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
-<img src="./assets/header.svg?v=2" alt="Igor Oliveira — Full-Stack Developer" width="100%" />
+<img src="./assets/header.svg?v=3" alt="Igor Oliveira — Full-Stack Developer" width="100%" />
 
 <br>
 
@@ -43,7 +43,8 @@
 <img src="https://img.shields.io/badge/%2F%2F%20connect-ff462e?style=for-the-badge&labelColor=0d0d0d" alt="connect" />
 
 <a href="https://github.com/DevIgoor03"><img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ff462e&labelColor=0d0d0d" alt="github" /></a>
-<a href="mailto:igorprogramador03@gmail.com"><img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=ff462e&labelColor=0d0d0d" alt="email" /></a>
+<a href="https://igoor.dev"><img src="https://img.shields.io/badge/igoor.dev-0d0d0d?style=for-the-badge&logo=googlechrome&logoColor=ff462e&labelColor=0d0d0d" alt="website" /></a>
+<a href="mailto:devigoor03@gmail.com"><img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=ff462e&labelColor=0d0d0d" alt="email" /></a>
 <!-- Me manda seu LinkedIn que eu ativo:
 <a href="https://linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=ff462e&labelColor=0d0d0d" alt="linkedin" /></a>
 -->
