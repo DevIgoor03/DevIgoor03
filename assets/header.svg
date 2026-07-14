@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="220" viewBox="0 0 880 220" fill="none" role="img" aria-label="Igor Oliveira - Full Stack Developer">
+  <defs>
+    <linearGradient id="sweep" gradientUnits="userSpaceOnUse" x1="772" y1="48" x2="812" y2="63">
+      <stop offset="0%" stop-color="#ff462e" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#ff462e" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="hgrid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0 L0 0 L0 28" fill="none" stroke="#ffffff" stroke-opacity="0.02" stroke-width="1"/>
+    </pattern>
+    <clipPath id="hpanel"><rect x="1" y="1" width="878" height="218" rx="16"/></clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="878" height="218" rx="16" fill="#0d0d0d" stroke="#1c1c1c" stroke-width="1.5"/>
+  <g clip-path="url(#hpanel)"><rect x="1" y="1" width="878" height="218" fill="url(#hgrid)"/></g>
+
+  <!-- HUD corner ticks -->
+  <g stroke="#ff462e" stroke-width="1.5" fill="none" opacity="0.85">
+    <path d="M22 40 L22 22 L40 22"/>
+    <path d="M858 180 L858 198 L840 198"/>
+  </g>
+
+  <!-- accent bar + name block -->
+  <rect x="40" y="54" width="4" height="120" rx="1" fill="#ff462e"/>
+  <text x="60" y="74" font-family="ui-monospace,'Cascadia Code','Courier New',monospace" font-size="12" letter-spacing="3" fill="#ff462e">&lt;/&gt; FULL-STACK DEVELOPER</text>
+  <text x="58" y="128" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="50" font-weight="700" letter-spacing="1" fill="#f4f4f4">IGOR OLIVEIRA</text>
+  <text x="60" y="162" font-family="ui-monospace,'Cascadia Code','Courier New',monospace" font-size="13" letter-spacing="1" fill="#8a8a8a">building fast, resilient software for the web.</text>
+
+  <!-- radar -->
+  <g>
+    <circle cx="772" cy="110" r="22" fill="none" stroke="#242424"/>
+    <circle cx="772" cy="110" r="44" fill="none" stroke="#242424"/>
+    <circle cx="772" cy="110" r="62" fill="none" stroke="#242424"/>
+    <line x1="710" y1="110" x2="834" y2="110" stroke="#1f1f1f"/>
+    <line x1="772" y1="48" x2="772" y2="172" stroke="#1f1f1f"/>
+    <!-- rotating sweep -->
+    <g>
+      <path d="M772 110 L772 48 A62 62 0 0 1 811.9 62.5 Z" fill="url(#sweep)"/>
+      <line x1="772" y1="110" x2="772" y2="48" stroke="#ff462e" stroke-width="2"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 772 110" to="360 772 110" dur="4s" repeatCount="indefinite"/>
+    </g>
+    <!-- blip -->
+    <circle cx="806" cy="140" r="3.4" fill="#ff462e">
+      <animate attributeName="opacity" values="1;0.15;1" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="772" cy="110" r="3" fill="#ff462e"/>
+    <text x="772" y="196" text-anchor="middle" font-family="ui-monospace,'Courier New',monospace" font-size="10" letter-spacing="3" fill="#ff462e" opacity="0.9">SYS · ONLINE</text>
+  </g>
+
+  <!-- bottom moving accent -->
+  <line x1="40" y1="196" x2="700" y2="196" stroke="#181818" stroke-width="1.5"/>
+  <rect x="40" y="195" width="120" height="2" rx="1" fill="#ff462e">
+    <animate attributeName="x" values="40;580;40" dur="6s" repeatCount="indefinite"/>
+  </rect>
+</svg>
