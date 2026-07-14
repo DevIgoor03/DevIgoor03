@@ -3,7 +3,7 @@
 <!--             full-stack developer · #ff462e                        -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
-<img src="./assets/header.svg?v=3" alt="Igor Oliveira — Full-Stack Developer" width="100%" />
+<img src="./assets/header.svg?v=4" alt="Igor Oliveira — Full-Stack Developer" width="100%" />
 
 <br>
 
