@@ -1,68 +1,55 @@
-<h1 align="center">Olá 👋 Eu sou o Igor Oliveira</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:1E3A8A,100:0F172A&height=180&section=header&text=Igor%20Oliveira&fontColor=FFFFFF&fontSize=48&fontAlignY=34&desc=Software%20Engineer%20%C2%B7%20Backend%20%C2%B7%20Sistemas%20em%20tempo%20real&descAlignY=54&descSize=16&animation=fadeIn" />
 
 <p align="center">
-  Desenvolvedor backend focado em <b>TypeScript</b>, sistemas em tempo real e arquiteturas auditáveis.
+  <a href="https://github.com/SEU-USUARIO">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=520&lines=TypeScript+%C2%B7+Node.js+%C2%B7+PostgreSQL;Arquiteturas+distribu%C3%ADdas+e+audit%C3%A1veis;C%C3%B3digo+tipado%2C+testado+e+verific%C3%A1vel" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:devigoor03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&style=for-the-badge&color=0A66C2&label=VISITAS" alt="Visitas" />
+  <a href="https://www.linkedin.com/in/SEU-USUARIO/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:devigoor03@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&style=flat-square&color=0A66C2&label=profile+views" alt="Profile views" />
 </p>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
-### 🚀 Sobre mim
+## Sobre
 
-- 🔭 Atualmente construindo uma **plataforma white-label de opções binárias** — motor de execução auditável, ledger encadeado e traderoom em tempo real
-- 🧱 Gosto de **monorepos tipados**, contratos explícitos entre pacotes e código que dá pra verificar, não só confiar
-- ⚡ Interesses: WebSockets, séries temporais de mercado, integridade de dados (hash chain) e testes de ponta a ponta
-- 📫 Fale comigo: **devigoor03@gmail.com**
+Engenheiro de software com foco em **backend** e **sistemas em tempo real**.
+Trabalho com monorepos tipados, contratos explícitos entre serviços e integridade de dados verificável — sistemas que podem ser auditados, não apenas confiados.
 
----
+- **Foco atual** — TypeScript de ponta a ponta, WebSockets, séries temporais e modelagem de dados
+- **Princípios** — tipos estritos, testes automatizados, observabilidade e reprodutibilidade
+- **Contato** — `devigoor03@gmail.com`
 
-### 🛠️ Tecnologias
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+
+## Stack
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,postgres,redis,docker,git,githubactions,vite,vitest,linux,vscode&theme=dark&perline=12" alt="Stack" />
 </p>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
-### 📊 GitHub Stats
+## Atividade
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=tokyonight&hide_border=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribui%C3%A7%C3%B5es" alt="Activity graph" />
 </p>
-
----
-
-### 📌 Projetos em destaque
-
-| Projeto | Descrição | Stack |
-| --- | --- | --- |
-| [Broker](https://github.com/SEU-USUARIO/broker) | Plataforma de opções binárias white-label: motor auditável, ledger com hash chain e traderoom em tempo real | TypeScript · Node · WebSocket · PostgreSQL |
-
----
 
 <p align="center">
-  <i>"Código que você não consegue auditar é código em que você só está torcendo pra dar certo."</i>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-snake.svg" />
+  </picture>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0A66C2&height=120&section=footer" />
