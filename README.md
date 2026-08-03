@@ -1,43 +1,68 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anton&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=[=++Welcome,+To+My+Profile!++=])](https://git.io/typing-svg)
-#
+<h1 align="center">Olá 👋 Eu sou o Igor Oliveira</h1>
+
 <p align="center">
-  <img src=".github/workflows/duque github (1280 x 320 px).gif" />
+  Desenvolvedor backend focado em <b>TypeScript</b>, sistemas em tempo real e arquiteturas auditáveis.
 </p>
-</h3>
 
-#
-<p align="left">
-Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na UNIP. Tenho interesse na área de programação e busco aprender cada vez mais para desenvolver minhas habilidades. Sou uma pessoa dedicada, responsável e comprometida com aquilo que faço.
-Procuro aproveitar as oportunidades para aprender, evoluir e me desenvolver, tanto profissionalmente quanto pessoalmente.
-
-
-#
-<h3 align="left">My Stack:</h3> <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-
-#
-
-<br clear="both">
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevIgoor03/DevIgoor03/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevIgoor03/DevIgoor03/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DevIgoor03/DevIgoor03/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-#
-
-###
 <p align="center">
-<i>"A tecnologia move o mundo?"</i> 
+  <a href="https://www.linkedin.com/in/SEU-USUARIO/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:devigoor03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&style=for-the-badge&color=0A66C2&label=VISITAS" alt="Visitas" />
+</p>
+
+---
+
+### 🚀 Sobre mim
+
+- 🔭 Atualmente construindo uma **plataforma white-label de opções binárias** — motor de execução auditável, ledger encadeado e traderoom em tempo real
+- 🧱 Gosto de **monorepos tipados**, contratos explícitos entre pacotes e código que dá pra verificar, não só confiar
+- ⚡ Interesses: WebSockets, séries temporais de mercado, integridade de dados (hash chain) e testes de ponta a ponta
+- 📫 Fale comigo: **devigoor03@gmail.com**
+
+---
+
+### 🛠️ Tecnologias
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📌 Projetos em destaque
+
+| Projeto | Descrição | Stack |
+| --- | --- | --- |
+| [Broker](https://github.com/SEU-USUARIO/broker) | Plataforma de opções binárias white-label: motor auditável, ledger com hash chain e traderoom em tempo real | TypeScript · Node · WebSocket · PostgreSQL |
+
+---
+
+<p align="center">
+  <i>"Código que você não consegue auditar é código em que você só está torcendo pra dar certo."</i>
 </p>
